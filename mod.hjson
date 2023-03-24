@@ -1,0 +1,18 @@
+{
+    name: "swp",
+	repo: "sunkymp3g/swp",
+    minGameVersion: 142,
+    version: "1.0",
+    
+    displayName: "Sandbox World Processors",
+    author: "Sunky.MP3G",
+    subtitle: "Version: v1.0",
+    description:
+'''
+Adds world processor, message, and cell to map testing
+
+WARNING! Your game with this mod may NOT save!
+Save your schematics!
+'''
+    dependencies: []
+}

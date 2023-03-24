@@ -1,0 +1,13 @@
+{
+type: "logicBlock"
+category: "logic"
+health: 1000000
+size: 1
+
+canOverdrive: false
+targetable: false
+privileged: true
+instructionsPerTick: 8
+maxInstructionsPerTick: 1000
+buildVisibility: "sandboxOnly"
+}

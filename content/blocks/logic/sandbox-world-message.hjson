@@ -1,0 +1,12 @@
+{
+type: "messageBlock"
+category: "logic"
+health: 1000000
+size: 1
+
+maxTextLength: 10000
+maxNewlines: 1000
+
+targetable: false
+buildVisibility: "sandboxOnly"
+}

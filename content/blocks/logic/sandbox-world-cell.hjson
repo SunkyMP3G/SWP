@@ -1,0 +1,10 @@
+{
+type: "memoryBlock"
+category: "logic"
+health: 1000000
+size: 1
+
+targetable: false
+memoryCapacity: 10000
+buildVisibility: "sandboxOnly"
+}
