@@ -1,0 +1,10 @@
+{
+type: "PowerSource"
+category: "power"
+health: 1000
+size: 1
+
+powerProduction: 16666.66666666
+laserRange: 600
+buildVisibility: "sandboxOnly"
+}

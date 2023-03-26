@@ -1,0 +1,11 @@
+{
+type: "PowerNode"
+category: "power"
+size: 1
+health: 1000
+
+buildVisibility: "sandboxOnly"
+
+laserRange: 600
+maxNodes: 100
+}

@@ -1,10 +1,10 @@
 {
 type: "messageBlock"
 category: "logic"
-health: 1000000
+health: 1000
 size: 1
 
-maxTextLength: 10000
+maxTextLength: 1000
 maxNewlines: 1000
 
 targetable: false
